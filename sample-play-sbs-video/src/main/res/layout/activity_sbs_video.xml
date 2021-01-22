@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".SbsVideoActivity">
 
+
     <com.leiainc.androidsdk.core.QuadView
         android:id="@+id/quad_view"
         android:layout_width="match_parent"
